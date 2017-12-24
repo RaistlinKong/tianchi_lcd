@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.json
+*.h5
+gcloud/
+local/
